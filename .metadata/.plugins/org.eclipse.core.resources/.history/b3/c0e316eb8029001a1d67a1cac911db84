@@ -1,0 +1,11 @@
+package org.examples.firstexample;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+import org.junit.runners.Suite.SuiteClasses;
+
+@RunWith(Suite.class)
+@SuiteClasses({ CalculatorTestSuccessful.class })
+public class AllTests {
+
+}

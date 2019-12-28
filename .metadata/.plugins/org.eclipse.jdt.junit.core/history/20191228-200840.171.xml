@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorTestSuccessful" project="firstexample" tests="5" started="5" failures="0" errors="0" ignored="2">
+  <testsuite name="org.examples.firstexample.CalculatorTestSuccessful" time="0.001">
+    <testcase name="testSum" classname="org.examples.firstexample.CalculatorTestSuccessful" time="0.001"/>
+    <testcase name="testEqual" classname="org.examples.firstexample.CalculatorTestSuccessful" time="0.0" ignored="true"/>
+    <testcase name="testSubstraction" classname="org.examples.firstexample.CalculatorTestSuccessful" time="0.0" ignored="true"/>
+    <testcase name="testDivisionException" classname="org.examples.firstexample.CalculatorTestSuccessful" time="0.0"/>
+    <testcase name="testDivison" classname="org.examples.firstexample.CalculatorTestSuccessful" time="0.0"/>
+  </testsuite>
+</testrun>
